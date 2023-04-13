@@ -1,5 +1,5 @@
 local yourSwitch = 3 --0-Extra A, 1-Extra B, etc..
-local tempTreshold = 70 --i've set the treshold to 85, real value is 90, increase or decrease if you want to
+local tempTreshold = 82 --i've set the treshold to 85, real value is 90, increase or decrease if you want to
 local openVents = false --are the vents open?
 local isOverride = false --if the user has pressed extra switch
 
