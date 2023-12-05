@@ -1,6 +1,14 @@
 # Murcielago-Batwing
 
-Pro-bono project made for Spearmint's Murcielago mod.
+Pro-bono project made for Spearmint's Murciélago mod.
+
+## System breakdown
+
+https://github.com/plus-and-other-arithmetic-operations/Murcielago-Batwing/assets/88043761/2a618c54-bc4e-4e74-b9c1-3f173e70708d
+
+The Murciélago has an automatic vent duct system, which involves sensors and control systems that monitor various parameters such as engine temperature, vehicle speed, and aerodynamic conditions. 
+
+Based on these inputs, the system adjusts the opening and closing of vents to optimize airflow and cooling for the engine and other critical components.
 
 ## Setup 
 
